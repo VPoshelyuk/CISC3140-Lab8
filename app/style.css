@@ -1,0 +1,53 @@
+* { 
+    margin:0; 
+    padding:0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+textarea {
+    width: 75vw;
+    min-height: 90vh;
+    max-height: 90vh;
+    white-space: pre-wrap;
+    border: none;
+    overflow: auto;
+    outline: none;
+    resize: none
+}
+
+#counters-frame {
+    position: absolute;
+    margin: auto;
+    left: 10px;
+    bottom: 10px;
+    height: 80px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#counters {
+    margin: 12px;
+    text-align: left;
+}
+
+#export-button {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 180px;
+    height: 80px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: none;
+}
