@@ -34,4 +34,4 @@ cd CISC3140-Lab8/app
 open index.html
 ```
 That's it, after that you will be presented with a simple word counter program.   
-![Screenshot](Screen Shot 2021-04-11 at 3.35.02 PM.png)
+![alt text](https://i.postimg.cc/DZQcrJX7/Screen-Shot-2021-04-11-at-3-35-02-PM.png)
